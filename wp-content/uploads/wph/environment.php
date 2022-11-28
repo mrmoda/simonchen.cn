@@ -1,2 +1,0 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
-$environment_variable = '{"theme":{"folder_name":"minimal-portfolio","mapped_name":""},"allowed_paths":["\/data\/home\/hxu0480684\/htdocs\/wp-content\/themes"],"cache_path":"\/data\/home\/hxu0480684\/htdocs\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>
